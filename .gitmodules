@@ -1,0 +1,3 @@
+[submodule "MachSuite"]
+	path = MachSuite
+	url = https://github.com/philisg/MachSuite.git
