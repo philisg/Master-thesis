@@ -1,3 +1,9 @@
 [submodule "MachSuite"]
 	path = MachSuite
 	url = https://github.com/philisg/MachSuite.git
+[submodule "cgrame"]
+	path = cgrame
+	url = https://github.com/philisg/cgrame.git
+[submodule "Chipyard"]
+	path = Chipyard
+	url = https://github.com/philisg/Chipyard.git
